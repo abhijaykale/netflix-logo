@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+}
+.box-flex {
+  background-color: #ffd60a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  background: #b7111b;
+  color: #fafbf4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Kanit", sans-serif;
+  padding: 16px 80px;
+}
+
+.title {
+  font-size: 80px;
+  text-shadow: 5px -5px 5px black;
+}
